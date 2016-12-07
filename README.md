@@ -1,3 +1,3 @@
 # GeniusOrIdiot
 
-Trivia game using Java, JDBC and JSP
+Trivia game JDBC and JSP
